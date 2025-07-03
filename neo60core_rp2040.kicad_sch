@@ -11777,7 +11777,7 @@
 				)
 			)
 		)
-		(property "Value" "33p"
+		(property "Value" "15p"
 			(at 30.4863 138.43 90)
 			(effects
 				(font
@@ -15302,7 +15302,7 @@
 				)
 			)
 		)
-		(property "Value" "YSX321SL"
+		(property "Value" "ABM8-272-T3"
 			(at 40.64 129.032 90)
 			(effects
 				(font
@@ -16699,7 +16699,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "1K"
 			(at 53.34 139.7 90)
 			(effects
 				(font
@@ -22451,7 +22451,7 @@
 				)
 			)
 		)
-		(property "Value" "33p"
+		(property "Value" "15p"
 			(at 30.4863 127 90)
 			(effects
 				(font
