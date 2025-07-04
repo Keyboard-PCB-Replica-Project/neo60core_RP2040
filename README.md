@@ -23,17 +23,23 @@ KT-0805W LED를 구입해서 LED 자리에 납땜해주시면 됩니다. 타오�
 작동 확인 여부 : O
 
 
+
 This is a replica PCB for the NEO60 CORE.
 
 It fits the NEO60 CU, but I haven’t confirmed if it actually works yet.
+
 I’ll test it later.
 
 LEDs are not included.
+
 You can buy KT-0805W LEDs and solder them yourself.
+
 They’re easy to find on Taobao or AliExpress, and soldering them is even easier than switches.
+
 If you're okay with a bit more cost, I might offer a version with the LEDs pre-installed.
 
 It might be updated later.
 
 Extra parts needed: KT-0805W LEDs
+
 Tested and working: verified
